@@ -18,7 +18,7 @@ step7:Download that trained_model.sav file
 
 step8:Save all files in one folder and copy the path of the folder
 
-step9:change the path of trained_model.sav file according to your folder path in the diabetes prediction web app
+step9:change the path of trained_model.sav file according to your folder path in the diabetes prediction web app and run the file in spyder
 
 step10:streamlit run" path of the diabetes prediction web app.py" Use this command in terminal 
 
